@@ -1,1 +1,1 @@
-my readme file
+my newly directory
